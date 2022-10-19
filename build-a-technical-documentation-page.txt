@@ -1,0 +1,106 @@
+** start of undefined **
+
+<html>
+  <style>
+    #main-doc{
+      background-color:#f1f1f1;
+    }
+    body{
+      margin-left:100;
+      top:0;
+      padding:20;
+      width:75%;
+    }
+    #navbar{
+  list-style-type: none;
+  left:0;
+  padding: 0;
+  width: 25%;
+  background-color: grey;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+   header{
+     font-size:20px;
+     background-color:white;
+   } 
+   @media screen and (min-width: 721px) {
+    .container{
+          display:flex;
+          flex-direction: row;
+      }
+  </style>
+  
+    <body>
+    <nav id="navbar">
+  <header>JavaScript and Java manenos</header>
+  <ul>
+  <a class="nav-link" href="#introduction"><li>Introduction</li></a>
+<a class="nav-link" href="#requirements"><li>Requirements</li></a>
+<a class="nav-link" href="#javascript_and_java"><li>JavaScript and Java</li></a>
+<a class="nav-link" href="#constructs"><li>Constructs</li></a>
+<a class="nav-link" href="#references"><li>References</li></a>
+</ul>
+</nav>
+<main id="main-doc">
+<section class="main-section" id="introduction">
+  <header>Introduction</header>
+  <code></code>
+  <p>This is Kimber JAvaScript documentation</p>
+  <p>This syllabus contains coding aid in:</p>
+  <li>JAvaScript constructs.</li>
+  <li>Variables</li>
+</section>
+<section class="main-section" id="requirements">
+  <header>Requirements</header>
+  <code></code>
+  <p>For best learning, you should:</p>
+  <li>some programing experience</li>
+  
+  <p></p>
+</section>
+<section class="main-section" id="javascript_and_java">
+  <header>JavaScript and Java</header>
+  <code></code>
+  <li></li>
+  <p></p>
+  <p></p>
+</section>
+<section class="main-section" id="constructs">
+  <header>Constructs</header>
+  <code></code>
+  <li></li>
+  <p></p>
+  <p></p>
+</section>
+<section class="main-section" id="references">
+  <header>References</header>
+  <code></code>
+  <li></li>
+  <p></p>
+  <p></p>
+</section>
+</main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+

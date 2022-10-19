@@ -1,0 +1,58 @@
+** start of undefined **
+
+<html>
+  <main id="main">
+    <head>
+ 
+      <title>Dr. Norman Magutu</title>
+      <style>
+#image{
+  display:block;
+  max-width:100%;
+  margin:0 auto;
+}
+</style>
+    </head>
+    <body>
+      <h1 id="title">The life of Dr. Norman Magutu</h1>
+      <figure id="img-div">
+        <img id="image" src="https://en.wikipedia.org/wiki/Norman_Borlaug#/media/File:Norman_Borlaug,_2004_(cropped).jpg">
+        <figcaption id="img-caption">Dr. Norman</figcaption>
+      </figure>
+      <section id="tribute-info">
+        <div id="tribute-page">
+          <h2>Tribute to Dr. Norman Borlaug</h2>
+          <h3>Early life</h3>
+          <p>Dr. Norman Borlaug was born on 25 March 1914 in Texas North of America to Mr and Mrs Borlaug.</p>
+        </div>
+      </section>
+      <section id="tribute gallery">
+        <figure id="img-div5">
+          <img id="image5" src="https://www.normanborlaug.org/images/Borlaug_Siblings.jpg" alt="Norman with his siblings">
+          <figcaption id="img-caption">Norman with his siblings</figcaption>
+        </figure>
+ 
+        <figure id="img-div3">
+          <img id="image" src="file:///home/nzetu-dan/Downloads/Dr.%20Norman.jpg" alt="Dr. Norman">
+          <figcaption id="img-caption">Norman wrestling for University of Minnesota</figcaption>
+        </figure>
+        <figure id="img-div4">
+          <img id="image" src="https://www.cgdev.org/sites/default/files/archive/images/blog/LM_Borlaug.jpg" alt="Dr. Norman">
+          <figcaption id="img-caption">Dr. Norman in an interview "The man who fed the world"<figcaption>
+        </figure>
+       </section>
+       <a id="tribute-link" href="https://www.worldfoodprize.org/en/dr_norman_e_borlaug/about_norman_borlaug/" id="tribute-link" target="_blank">The biography of Dr. Norman</a> Click
+       </p>
+          </body>
+      
+</main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+

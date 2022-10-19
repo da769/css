@@ -1,0 +1,98 @@
+** start of undefined **
+
+<html>
+<style>
+  body{
+    background-color:#f1f1f1;
+  }
+  form{
+    background-color:blue;
+  }
+  #nav-bar{
+    position:fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: red;
+  color: white;
+  font-family: 'Exo 2', sans-serif;
+  padding: 1em;
+}
+ #hew{
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  font-size:40px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 30px;
+  text-align: center;
+}
+@media (max-width: 800px) {
+  .flex-container {
+    flex: 100%;
+</style>
+ 
+  <header id="header">  
+    <nav id="nav-bar">
+      <a class="nav-link" href="#products" >products</a>|</button>
+      <button><a class="nav-link" href="#features">features</a>|</button>
+     <a class="nav-link" href="#prizing">prizing</a>|
+      </nav>
+   <a id="j_GitHub_a" target="_blank" href="https://github.com/Wincooo/"> 
+    <img id="header-img" src="https://i.imgur.com/6nLiGv3.png" 
+    alt="phone-logo" width= "10%";>
+   </a>
+  
+  </header><br><br>
+   <head id="hew">Bess phones
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  </head> <body>
+    <div id="products">
+      Phones for retail at best discounts:
+      <ol>
+      <ls>Iphone</ls><br>
+      <ls>Sumsung</ls><br>
+      <ls>Nokia</ls><br>
+      </ol>
+    </div>
+    <div id="features">
+     <iframe id="video"height="100" width="199" src="https://www.youtube.com/embed/tgbNymZ7vqY" ></iframe>
+     <h3>The above video describes the various phone brand features</h3>
+     </div>
+     <div id="prizing">
+       All Iphones range from 200$<br>
+       Most sumsung phones range from 120$<br>
+       Most Nokia phones range from 70$ with Nokia 
+       prime skyrocketing at 230$ 
+     </div>
+     <br><br>
+       <form id="form" action="https://www.freecodecamp.com/email-submit">
+       <label for="email">email
+<input id="email" placeholder="email" type="email" name="email" required>
+       </label><br><br>
+       <input id="submit" placeholder="submit email" type="submit">submit</input>
+     </form>
+     </body>
+    
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
